@@ -1,0 +1,29 @@
+# Enforce consistent line endings (LF in repo, convert to CRLF on Windows if needed)
+* text=auto
+
+# Force LaTeX files to use LF (cross-platform compatible)
+*.tex text eol=lf
+*.bib text eol=lf
+*.sty text eol=lf
+*.cls text eol=lf
+
+# Treat Jupyter notebooks as binary (disable diff)
+*.ipynb binary
+
+# Prevent diff noise in compiled files
+*.pdf binary
+*.png binary
+*.jpg binary
+
+# Shell scripts should use LF
+*.sh text eol=lf
+
+# CSV/data files
+*.csv text
+*.tsv text
+
+# Python scripts
+*.py text eol=lf
+
+# Git handles image diffs by default but can be disabled here if needed
+# *.svg diff=none

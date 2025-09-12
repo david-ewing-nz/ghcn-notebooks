@@ -1,0 +1,8 @@
+pandas
+pyspark
+matplotlib
+seaborn
+ipykernel
+notebook
+pyarrow
+geopandas

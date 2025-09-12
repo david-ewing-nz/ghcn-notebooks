@@ -1,0 +1,46 @@
+
+Project Instructions for ChatGPT Assistance
+
+1. Clarify Key Concepts:
+
+- Provide a brief explanation of the Global Historical Climatology Network (GHCN) dataset and its structure (e.g., .dly files, station metadata, key variables like PRCP, SNOW, TMAX, TMIN).
+- Explain the basics of Hadoop and how it can process large climate datasets.
+- Describe how Azure can be used to manage and analyze these datasets (e.g., using Azure HDInsight for Hadoop clusters or Azure Storage for data management).
+
+2. Code Development:
+
+- Assist in writing Python code to:
+  - Parse and extract relevant data from .dly files.
+  - Use Hadoop’s MapReduce framework to perform data aggregation tasks like calculating average temperature, total precipitation, or identifying trends.
+  - Interface with Azure for uploading, storing, and accessing data files.
+  - Generate functions for error handling, logging, and validating dataset consistency.
+
+3. Data Preparation and Handling:
+
+- Help write scripts to preprocess the dataset, such as:
+  - Filtering data based on specific criteria (e.g., geographic region or time period).
+  - Converting data into a format suitable for Hadoop processing (e.g., CSV or JSON).
+- Provide advice on handling missing data or flagged quality issues in the dataset.
+
+4. Research and Optimization:
+
+- Research potential methodologies for analyzing climate datasets, including examples or case studies.
+- Suggest ways to optimize the MapReduce job performance, such as combiner functions or partitioning.
+
+5. Debugging and Troubleshooting:
+
+- Debug Python code for errors and inconsistencies.
+- Analyze any issues that arise during Hadoop processing or Azure integration and provide solutions.
+
+6. Documentation:
+
+- Draft clear, concise documentation that explains:
+  - The overall workflow of the project.
+  - How the Python code functions.
+  - Steps for deploying the solution using Hadoop and Azure.
+- Provide templates or examples for documenting data analysis findings.
+
+7. Iterative Refinement:
+
+- Facilitate discussions on potential improvements or alternative approaches based on initial results.
+- Iterate over code or workflow to meet specific project requirements or goals.
