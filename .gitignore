@@ -1,0 +1,28 @@
+# Jupyter
+.ipynb_checkpoints/
+*.nb.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/ env/ .env
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+
+# Spark / local artefacts
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
+
+# Data & outputs (adjust to taste)
+data/
+*.parquet
+*.csv
+*.csv.gz
+*.json
+*.html
+figures/
