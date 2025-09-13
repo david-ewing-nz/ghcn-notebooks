@@ -8415,6 +8415,11 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process A1(a)1"</span><span class="p">)</span>
+ 
+
+<span class="n">Q1</span><span class="p">(</span><span class="n">a</span><span class="p">):</span> <span class="n">Describe</span> <span class="n">the</span> <span class="n">structure</span> <span class="n">of</span> <span class="n">the</span> <span class="n">GHCN</span><span class="o">-</span><span class="n">Daily</span> <span class="n">dataset</span> <span class="ow">in</span> <span class="n">storage</span> <span class="err">—</span> <span class="n">identify</span> <span class="n">the</span> <span class="n">container</span> <span class="ow">and</span> <span class="n">the</span> <span class="n">top</span><span class="o">-</span><span class="n">level</span> <span class="n">items</span> <span class="p">(</span><span class="n">e</span><span class="o">.</span><span class="n">g</span><span class="o">.</span><span class="p">,</span> <span class="n">daily</span><span class="o">/</span><span class="p">,</span> <span class="n">inventory</span><span class="p">,</span> <span class="n">stations</span><span class="p">,</span> <span class="n">countries</span><span class="p">,</span> <span class="n">states</span><span class="p">),</span> <span class="n">note</span> <span class="n">naming</span> <span class="n">patterns</span><span class="p">,</span> <span class="ow">and</span> <span class="n">briefly</span> <span class="n">state</span> <span class="n">what</span> <span class="n">each</span> <span class="n">contains</span> <span class="p">(</span><span class="k">with</span> <span class="n">an</span> <span class="n">example</span> <span class="n">path</span> <span class="ow">or</span> <span class="n">two</span><span class="p">)</span><span class="o">.</span>
+
+
 <span class="c1">#!hdfs dfs -ls -h {data_root}</span>
 <span class="n">notebook_run_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> 
 <span class="nb">print</span><span class="p">(</span><span class="s2">"daily_root -&gt; "</span><span class="p">,</span> <span class="n">daily_root</span><span class="p">)</span>
@@ -8433,6 +8438,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process A1(a)2"</span><span class="p">)</span>
+<span class="n">ChatGPT</span> <span class="n">said</span><span class="p">:</span>
+<span class="n">Thought</span> <span class="k">for</span> <span class="mi">8</span><span class="n">s</span>
+
+<span class="n">Q1</span><span class="p">(</span><span class="n">a</span><span class="p">):</span> <span class="n">Describe</span> <span class="n">the</span> <span class="n">structure</span> <span class="n">of</span> <span class="n">the</span> <span class="n">GHCN</span><span class="o">-</span><span class="n">Daily</span> <span class="n">dataset</span> <span class="ow">in</span> <span class="n">storage</span> <span class="err">—</span> <span class="n">identify</span> <span class="n">the</span> <span class="n">container</span> <span class="ow">and</span> <span class="n">the</span> <span class="n">top</span><span class="o">-</span><span class="n">level</span> <span class="n">items</span> <span class="p">(</span><span class="n">e</span><span class="o">.</span><span class="n">g</span><span class="o">.</span><span class="p">,</span> <span class="n">daily</span><span class="o">/</span><span class="p">,</span> <span class="n">inventory</span><span class="p">,</span> <span class="n">stations</span><span class="p">,</span> <span class="n">countries</span><span class="p">,</span> <span class="n">states</span><span class="p">),</span> <span class="n">note</span> <span class="n">naming</span> <span class="n">patterns</span><span class="p">,</span> <span class="ow">and</span> <span class="n">briefly</span> <span class="n">state</span> <span class="n">what</span> <span class="n">each</span> <span class="n">contains</span> <span class="p">(</span><span class="k">with</span> <span class="n">an</span> <span class="n">example</span> <span class="n">path</span> <span class="ow">or</span> <span class="n">two</span><span class="p">)</span><span class="o">.</span>
 <span class="c1">#!hdfs dfs -du -s -h {daily_root} </span>
 <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"daily_root -&gt; </span><span class="si">{</span><span class="n">daily_root</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
 <span class="o">!</span>hdfs<span class="w"> </span>dfs<span class="w"> </span>-du<span class="w"> </span>-s<span class="w"> </span>-h<span class="w"> </span><span class="o">{</span>daily_root<span class="o">}</span><span class="w"> </span>
@@ -8451,7 +8460,11 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process A1(c)"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Plot A1(c).pie — total vs daily"</span><span class="p">)</span>
+<span class="c1"># supports: Q1(c). Q1(c) (verbatim): "What is the total size of all of the data, and how much of that is daily?"</span>
+
+
+
 <span class="c1">#Daily folder size, meta-data size </span>
 <span class="n">bprint</span><span class="p">(</span><span class="s2">"Process A1(c)"</span><span class="p">)</span>
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> 
@@ -8510,7 +8523,8 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"DIAGNOSTIC 51 capture filename,lines (year,lines)"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span> <span class="n">bprint</span><span class="p">(</span><span class="s2">"Plot A1(c).pie — total vs daily"</span><span class="p">)</span> 
+<span class="c1"># supports: Q1(c). Q1(c) (verbatim): "What is the total size of all of the data, and how much of that is daily?"</span>
 
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>  
@@ -8555,7 +8569,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b)3"</span><span class="p">)</span> 
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: 1(b)8 indirectly"</span><span class="p">)</span>
+<span class="c1"># supports: Q1(b). Q1(b) (verbatim): "How many years are contained in daily, and how does the size of the data change?" </span>
+
+
 <span class="c1"># Build Spark DataFrame with exactly the 2 integer columns  </span>
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>  
@@ -8588,7 +8605,9 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b)6"</span><span class="p">)</span> 
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: 1(b)4"</span><span class="p">)</span> 
+<span class="c1">#  (“How many years are contained in daily, and how does the size of the data change?”).</span>
+<span class="c1"># Build Spark DataFrame with exactly the 2 integer columns  </span>
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> 
 <span class="n">year_sizes_df</span><span class="o">.</span><span class="n">show</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="n">truncate</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">"Row count:"</span><span class="p">,</span> <span class="n">year_sizes_df</span><span class="o">.</span><span class="n">count</span><span class="p">())</span>
@@ -8609,7 +8628,8 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b)6"</span><span class="p">)</span> <span class="c1"># Build FULL `daily` from all years (wildcard under daily_root)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: 1(b)5"</span><span class="p">)</span> <span class="c1"># — build FULL `daily` from all years (wildcard)</span>
+<span class="c1"># supports: Q1(b). Q1(b) (verbatim): "How many years are contained in daily, and how does the size of the data change?"</span>
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>  
 
@@ -8671,12 +8691,13 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b) NEW -ER"</span><span class="p">)</span> <span class="c1"># </span>
-<span class="c1"># Build  meta-data dataframe</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: 1(b)6"</span><span class="p">)</span>
+<span class="c1"># supports: Q1(b) (robust HDFS parsing variant, "NEW -ER", for year/size extraction). Q1(b) (verbatim): "How many years are contained in daily, and how does the size of the data change?"</span>
+
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> 
 <span class="n">rows</span>        <span class="o">=</span> <span class="p">[]</span>
-<span class="c1"># NOTE: use -du with a files-only glob so size + path are stable (behaves like the GOOD run)</span>
+<span class="c1"># NOTE:  -du with a files-only --- size + path are stable (behaves like the GOOD run)</span>
 <span class="n">lines</span>       <span class="o">=</span> <span class="n">get_ipython</span><span class="p">()</span><span class="o">.</span><span class="n">getoutput</span><span class="p">(</span><span class="sa">f</span><span class="s1">'hdfs dfs -du "</span><span class="si">{</span><span class="n">data_root</span><span class="si">}</span><span class="s1">/ghcnd-*.txt"'</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">lines</span><span class="p">)</span>
 <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">lines</span><span class="p">:</span>                 <span class="c1"># &lt;-- was lines[15:] (skipped everything)</span>
@@ -8726,7 +8747,8 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"q1(bb)"</span><span class="p">)</span> <span class="c1">#  q1(bb)  — dataset sizes from HDFS + estimated uncompressed for daily</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: 1(c)2 — dataset sizes (HDFS) + est. uncompressed daily"</span><span class="p">)</span>
+<span class="c1"># supports: Q1(c). Q1(c) (verbatim): "What is the total size of all of the data, and how much of that is daily?"</span>
 
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
@@ -9024,7 +9046,9 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process A X (2) "</span><span class="p">)</span> 
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: 1(c)2 — dataset sizes (HDFS) + est. uncompressed daily"</span><span class="p">)</span>
+<span class="c1"># supports: Q1(c). Q1(c) (verbatim): "What is the total size of all of the data, and how much of that is daily?"</span>
+
 <span class="c1"># One pie: All other years (≤2023) vs 2024 vs 2025 vs Metadata</span>
  
 
@@ -9038,7 +9062,7 @@ _________________GLOBAL VARIABLES_________________
 
 
 
-<span class="c1"># --- Prefer `ls`; fall back to `du` if needed</span>
+<span class="c1">#  `ls`; fall back to `du` if needed</span>
 <span class="n">ls_cmd</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">'hdfs dfs -ls </span><span class="si">{</span><span class="n">daily_dir</span><span class="si">}</span><span class="s1">'</span>
 <span class="n">ls_lines</span> <span class="o">=</span> <span class="n">get_ipython</span><span class="p">()</span><span class="o">.</span><span class="n">getoutput</span><span class="p">(</span><span class="n">ls_cmd</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">"[status] ls CMD -&gt;"</span><span class="p">,</span> <span class="n">ls_cmd</span><span class="p">)</span>
@@ -9409,7 +9433,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q3(a–c)1"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(a–c)61"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(a–c) — "Derive country_code and join stations with countries/states."</span>
+<span class="c1"># does: parses COUNTRIES fixed-width into [CODE, COUNTRY_NAME]; derives COUNTRY_CODE from station IDs; left-joins stations↔countries to create stn_countries and previews results for verification.</span>
+
 <span class="c1"># countries</span>
 <span class="n">read_countries</span> <span class="o">=</span> <span class="n">spark</span><span class="o">.</span><span class="n">read</span><span class="o">.</span><span class="n">text</span><span class="p">(</span><span class="n">countries_read_name</span><span class="p">)</span>
 <span class="n">countries</span> <span class="o">=</span> <span class="p">(</span>
@@ -9448,7 +9475,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q3(a-c)2"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(a–c)62"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(a–c) — "Derive country_code and join stations with countries/states."</span>
+<span class="c1"># does: reads STATES fixed-width from states_read_name, extracts CODE and STATE_NAME to build the states DataFrame, then prints schema and a sample; preparation for the stations↔states join.</span>
+
 <span class="c1"># states</span>
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>  
 <span class="n">read_states</span> <span class="o">=</span> <span class="n">spark</span><span class="o">.</span><span class="n">read</span><span class="o">.</span><span class="n">text</span><span class="p">(</span><span class="n">states_read_name</span><span class="p">)</span>
@@ -9489,7 +9519,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q3(d)1"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(d)60"</span><span class="p">)</span>  <span class="c1"># indirectly</span>
+<span class="c1"># supports: Q3(d) — aggregate inventory per station (FIRSTYEAR/LASTYEAR, element counts).</span>
+<span class="c1"># does: parses the fixed-width inventory file (inventory_read_name) into columns [ID, LATITUDE, LONGITUDE, ELEMENT, FIRSTYEAR, LASTYEAR], then prints schema and a sample to verify ingestion before aggregation.</span>
+
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>   
 <span class="n">read_inventory</span> <span class="o">=</span> <span class="n">spark</span><span class="o">.</span><span class="n">read</span><span class="o">.</span><span class="n">text</span><span class="p">(</span><span class="n">inventory_read_name</span><span class="p">)</span>
@@ -9524,7 +9557,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q2(d)"</span><span class="p">)</span><span class="c1">#  — row counts (+ previews &amp; schemas) for metadata + daily; save counts to dew59</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q2(d)59"</span><span class="p">)</span>
+<span class="c1"># supports: Q2(d) — row counts, previews, and schemas for metadata + daily; write a small counts artifact.</span>
+<span class="c1"># does: counts rows for stations/states/countries/inventory/daily_for_overlap, shows a table, writes the counts CSV to your user area, then previews 3 rows and prints schemas for each dataset.</span>
+
 
 <span class="kn">import</span><span class="w"> </span><span class="nn">time</span>
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
@@ -9596,7 +9632,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q3(d)1b"</span><span class="p">)</span> <span class="c1">#  – Row counts check (including inventory)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(d)57"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(d) — "Aggregate inventory per station (FIRSTYEAR, LASTYEAR, element counts) and summarise coverage."</span>
+<span class="c1"># does: prints row counts for stations, countries, states, and inventory (plus check lines), serving as a sanity/baseline count before inventory-by-station aggregations and later joins.</span>
+
 
 <span class="n">bprint</span><span class="p">()</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">"Row counts (with inventory):"</span><span class="p">)</span>
@@ -9619,7 +9658,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Q3(d)2 – Aggregate inventory per station</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q2(d)59"</span><span class="p">)</span>
+<span class="c1"># supports: Q2(d) — row counts, previews, and schemas for metadata + daily; write a small counts artifact.</span>
+<span class="c1"># does: counts rows for stations/states/countries/inventory/daily_for_overlap, shows a table, writes the counts CSV to your user area, then previews 3 rows and prints schemas for each dataset.</span>
+
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> 
 
 <span class="n">core_elements</span> <span class="o">=</span> <span class="p">[</span><span class="s2">"PRCP"</span><span class="p">,</span> <span class="s2">"SNOW"</span><span class="p">,</span> <span class="s2">"SNWD"</span><span class="p">,</span> <span class="s2">"TMAX"</span><span class="p">,</span> <span class="s2">"TMIN"</span><span class="p">]</span>
@@ -9663,7 +9705,9 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q3(e)1"</span><span class="p">)</span> <span class="c1">#  – Join aggregated inventory into enriched stations</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(e)56"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(e) — "Join aggregated inventory into stations to produce an enriched stations table."</span>
+<span class="c1"># does: builds `enriched` by joining station+country (`stn_countries`) with `states` (on STATE=CODE, left) and `inv_agg` (on ID, left); orders rows, prints row count and a preview of key columns, and records timing.</span>
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 <span class="n">enriched</span> <span class="o">=</span> <span class="p">(</span><span class="n">stn_countries</span>   <span class="c1"># already has station + country info</span>
@@ -9698,7 +9742,9 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q3(e)2"</span><span class="p">)</span> <span class="c1">#  – Save enriched stations table</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(e)55"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(e) — "Join inventory aggregates into stations and save the enriched stations table."</span>
+<span class="c1"># does: prints the target Parquet path (enriched_write_name) for the enriched stations table as a confirmation/log of where it has been/will be saved; no data mutation, just timing and status.</span>
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> 
 
@@ -9724,9 +9770,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q3(e)3"</span><span class="p">)</span><span class="c1">#  — save enriched stations table to user area</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(e)54"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(e) — "Join inventory aggregates into stations and save the enriched stations table."</span>
+<span class="c1"># does: writes the `enriched` DataFrame to your WASBS user area (overwrite), then confirms with row/column counts and schema; includes cell/notebook timing.</span>
 
- 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 
 <span class="n">out_enriched</span> <span class="o">=</span> <span class="s2">"wasbs://campus-user@madsstorage002.blob.core.windows.net/dew59/enriched_stations.parquet"</span>
@@ -9779,7 +9826,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b)26"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(e)53"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(e) — join inventory aggregates into stations to produce an enriched stations table.</span>
+<span class="c1"># does: conditionally writes the enriched stations DataFrame to Parquet (if not already present), logging the output path and timing.</span>
+
 <span class="c1">#build parquet files conditionally </span>
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 <span class="k">if</span><span class="p">(</span><span class="ow">not</span> <span class="n">has_enriched</span><span class="p">):</span>
@@ -9801,7 +9851,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b)26a"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(a–c)52"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(a–c) — "Derive country_code and join stations with countries/states."</span>
+<span class="c1"># does: writes the STATIONS table to Parquet at stations_write_name when missing (has_stations is False), ensuring the base stations dataset is persisted for the upcoming joins.</span>
+
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 <span class="k">if</span><span class="p">(</span><span class="ow">not</span> <span class="n">has_stations</span><span class="p">):</span>
     <span class="n">write_parquet</span><span class="p">(</span><span class="n">stations</span><span class="p">,</span><span class="n">stations_write_name</span><span class="p">)</span>
@@ -9824,7 +9877,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b)27"</span><span class="p">)</span> 
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(d)51"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(d) — aggregate inventory per station (first/last year, element counts) as input to enrichment.</span>
+<span class="c1"># does: writes the INVENTORY table to Parquet at inventory_write_name when missing (has_inventory is False), ensuring inventory is available for the Q3(d) aggregations and later joins.</span>
+
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 
 <span class="k">if</span><span class="p">(</span><span class="ow">not</span> <span class="n">has_inventory</span><span class="p">):</span>
@@ -9848,7 +9904,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b)28"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(a–c)50"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(a–c) — derive country_code and join stations with countries/states.</span>
+<span class="c1"># does: writes the STATES table to Parquet at states_write_name when missing (has_states is False) so it’s ready for the upcoming stations↔states joins; prints the write path and timing.</span>
+
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 <span class="k">if</span><span class="p">(</span><span class="ow">not</span> <span class="n">has_states</span><span class="p">):</span>
     <span class="n">write_parquet</span><span class="p">(</span><span class="n">states</span><span class="p">,</span><span class="n">states_write_name</span><span class="p">)</span>
@@ -9872,7 +9931,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b)29"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(a–c)49 "</span><span class="p">)</span> <span class="c1"># indirectly</span>
+<span class="c1"># supports: Q3(a–c) — derive country_code and join stations with countries/states.</span>
+<span class="c1"># does: persists the countries table to Parquet (if missing) at countries_write_name, so it’s available for the upcoming stations↔countries/states joins; prints the write path and timing.</span>
+
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 <span class="k">if</span><span class="p">(</span><span class="ow">not</span> <span class="n">has_countries</span><span class="p">):</span>
     <span class="n">write_parquet</span><span class="p">(</span><span class="n">countries</span><span class="p">,</span><span class="n">countries_write_name</span><span class="p">)</span>
@@ -9895,7 +9957,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"x 33"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(e)48"</span><span class="p">)</span>  <span class="c1"># - DIAGNOSTIC</span>
+<span class="c1"># supports: Q3(e) — join inventory aggregates into stations (produce an enriched stations table).</span>
+<span class="c1"># does: prints the schemas of read_stations and stations to verify field names/types align before enrichment/joins; validation only, no new data created.</span>
+
 <span class="nb">print</span><span class="p">(</span><span class="s2">"[CHECK] read_stations schema:"</span><span class="p">);</span> <span class="n">read_stations</span><span class="o">.</span><span class="n">printSchema</span><span class="p">()</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">"[CHECK] stations schema:"</span><span class="p">);</span> <span class="n">stations</span><span class="o">.</span><span class="n">printSchema</span><span class="p">()</span>
 </pre></div>
@@ -9911,9 +9976,9 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b) 30"</span><span class="p">)</span> <span class="c1">#  – station coverage: stations with all 5 core elements</span>
-
-
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(d)47"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(d) — "Aggregate inventory per station and summarise coverage (elements present per station)."</span>
+<span class="c1"># does: filters inventory to core elements [PRCP, SNOW, SNWD, TMAX, TMIN], groups by ID, counts distinct ELEMENTs (core_count), filters to core_count == 5 (stations with all five), then reports the count and timing.</span>
 
 <span class="n">core_elements</span> <span class="o">=</span> <span class="p">[</span><span class="s2">"PRCP"</span><span class="p">,</span> <span class="s2">"SNOW"</span><span class="p">,</span> <span class="s2">"SNWD"</span><span class="p">,</span> <span class="s2">"TMAX"</span><span class="p">,</span> <span class="s2">"TMIN"</span><span class="p">]</span>
 <span class="n">all_core_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
@@ -9942,7 +10007,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Q1(b) 31"</span><span class="p">)</span> <span class="c1">#  – station coverage: stations with only PRCP</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q3(d)46"</span><span class="p">)</span>
+<span class="c1"># supports: Q3(d) — "Aggregate inventory per station and summarise coverage (elements present per station)."</span>
+<span class="c1"># does: groups the inventory by station ID, collects distinct ELEMENTs, filters to those with exactly one element and that element = PRCP, then counts them — i.e., “stations with only PRCP”.</span>
+
 
 <span class="n">only_prcp_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 <span class="n">stations_with_only_prcp</span> <span class="o">=</span> <span class="p">(</span><span class="n">inventory</span>
@@ -9970,7 +10038,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"DIAGNOSTIC 7"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q4(b)45"</span><span class="p">)</span>  <span class="c1"># - DIAGNOSTIC</span>
+<span class="c1"># supports: diagnostic only (context: Q4(b) — "How many station IDs are in stations but not in daily?")</span>
+<span class="c1"># does: calls probe_universe(daily, stations, inv_agg) to print canonical ID counts and overlaps across daily vs stations vs inventory; a sanity check that the ID “universe” is consistent before running the explicit stations∖daily anti-join.</span>
+
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> 
 <span class="n">probe_universe</span><span class="p">(</span><span class="n">daily</span><span class="p">,</span> <span class="n">stations</span><span class="p">,</span> <span class="n">inv_agg</span><span class="p">,</span> <span class="n">tag</span><span class="o">=</span><span class="s2">"this C2 (GOOD) notebook NOT daily_for_overlap"</span><span class="p">)</span>
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> <span class="o">-</span> <span class="n">cell_time</span>
@@ -9989,9 +10060,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"DIAGNOSTIC 8b"</span><span class="p">)</span> <span class="c1">#— daily vs stations anti-joins (uses daily_for_overlap directly)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q4(b)44"</span><span class="p">)</span>  <span class="c1"># - DIAGNOSTIC</span>
+<span class="c1"># supports: diagnostic only (context: Q4(b) — "How many station IDs are in stations but not in daily?")</span>
+<span class="c1"># does: computes both left_anti directions on canonical IDs — (daily ∖ stations) and (stations ∖ daily). The second count is the Q4(b) figure; the first is a complementary check. Also reports per-join timings.</span>
 
- 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> 
 
 <span class="n">daily_ids</span>   <span class="o">=</span> <span class="n">canon_ids</span><span class="p">(</span><span class="n">daily_for_overlap</span><span class="p">)</span>   <span class="c1"># distinct, normalised ID from daily</span>
@@ -10027,7 +10099,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"DIAGNOSTIC 8"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q4(b)43"</span><span class="p">)</span>  <span class="c1"># - DIAGNOSTIC</span>
+<span class="c1"># supports: diagnostic only (context: Q4(b) — "How many station IDs are in stations but not in daily?")</span>
+<span class="c1"># does: builds canonical ID sets (daily_for_overlap, inventory, stations); uses left_anti to compute inventory_ids \ daily_ids (stations missing from daily), also reports catalogue − inventory mismatch and shows a sample of missing IDs.</span>
+
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span> 
 <span class="n">daily_ids</span>      <span class="o">=</span> <span class="n">canon_ids</span><span class="p">(</span><span class="n">daily_for_overlap</span><span class="p">)</span>
@@ -10066,9 +10141,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"DIAGNOSTIC 10"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: Q1(b)42"</span><span class="p">)</span>  <span class="c1"># - DIAGNOSTIC</span>
+<span class="c1"># supports: Q1(b) — "How many years are contained in daily, and how does the size of the data change?"</span>
+<span class="c1"># does: bootstraps the unfiltered daily dataset by checking candidate in-memory DataFrames (read_daily, daily_all, ghcnd_daily, daily_raw, daily_full) and, if needed, parquet paths (DAILY_* vars). For each candidate it counts unique station IDs and selects it when ≥120,000; otherwise raises a fatal error.</span>
 
-<span class="c1">#daily_for_overlap = None</span>
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>  
 
 <span class="c1"># Try in-memory objects first (fastest)</span>
@@ -10123,7 +10199,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"DIAGNOSTIC 9"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: 3(e)41 "</span><span class="p">)</span> <span class="c1"># - indirectly</span>
+<span class="c1"># supports: Q3(e) — join inventory aggregates into stations (produce an enriched stations table).</span>
+<span class="c1"># does: canonicalizes station IDs for stations and inv_agg, computes stations∖inventory via left_anti, reattaches station metadata, ranks by metadata null-count, and saves suspect rows (parquet/csv) to validate which catalogue stations would be missing from the Q3(e) join.</span>
+
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>  
 <span class="nb">print</span><span class="p">(</span><span class="s2">"[INFO] Building canonical ID sets …"</span><span class="p">)</span>
 <span class="n">catalogue_ids</span> <span class="o">=</span> <span class="n">canon_ids</span><span class="p">(</span><span class="n">stations</span><span class="p">)</span>   <span class="c1"># parsed ghcnd-stations.txt</span>
@@ -10175,7 +10254,10 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"DIAGNOSTIC 11"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: 4(b)1 — stations in stations ∖ daily"</span><span class="p">)</span>
+<span class="c1"># supports: Q4(b) — "How many station IDs are in stations but not in daily?"</span>
+<span class="c1"># does: canonicalizes IDs for daily_for_overlap, inventory, and stations; then uses left_anti joins to compute (inventory ∖ daily) and (stations ∖ daily). The count of (stations ∖ daily) is the direct answer to Q4(b); the inventory check is extra context.</span>
+
 <span class="n">daily_ids</span> <span class="o">=</span> <span class="n">_canon_ids</span><span class="p">(</span><span class="n">daily_for_overlap</span><span class="p">)</span>
 <span class="n">inv_ids</span>   <span class="o">=</span> <span class="n">_canon_ids</span><span class="p">(</span><span class="n">inv_agg</span><span class="p">)</span>
 <span class="n">cat_ids</span>   <span class="o">=</span> <span class="n">_canon_ids</span><span class="p">(</span><span class="n">stations</span><span class="p">)</span>
@@ -10202,7 +10284,9 @@ _________________GLOBAL VARIABLES_________________
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"DIAGNOSTIC CONFIRMATION 1"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">bprint</span><span class="p">(</span><span class="s2">"Process Answer: 1(b)11 indirectly"</span><span class="p">)</span>
+<span class="c1"># supports: Q1(b) — "How many years are contained in daily, and how does the size of the data change?"</span>
+<span class="c1"># does: selects `daily = daily_for_overlap`, then validates it (distinct ELEMENTs, DATE min/max, sample rows, unique station-ID count via `_canon_ids`) to prep the per-year coverage/size work; defines no new persistent variables.</span>
 
 <span class="n">cell_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 

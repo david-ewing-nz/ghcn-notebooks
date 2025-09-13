@@ -1,0 +1,86 @@
+PROJECT INSTRUCTIONS (incl. PAT)
+
+Purpose
+-------
+This project organizes your Processing and Analysis notebooks into clearly labeled, question-mapped steps and produces clean indices (tables/CSVs/LaTeX) on demand.
+
+Ground rules
+------------
+- No silent changes to code. I do not rename variables or modify logic unless you ask.
+- One label per cell. Exactly one bprint(...) at the very top of a cell.
+- No extra files/snippets unless you ask.
+- Verbatim questions. When mapping a cell, I quote the assignment’s wording exactly from the uploaded “Assignment … (Questions).pdf”.
+  - If a question label isn’t present in the PDF, I’ll mark the # supports: line as “awaiting verbatim text” (no guessing).
+
+PAT (Process/Analysis Answer Tagging)
+-------------------------------------
+
+
+What PAT does
+1) Read the cell’s code to understand what it actually does.
+2) Map it to the correct assignment item (e.g., Q1(a), Q3(e), Q4(b)), independent of any legacy titles.
+3) Stamp a unique label as the first line (bprint(...)) using a global serial that always increments.
+4) Add two comment lines:
+   - # supports: the verbatim question text (or “awaiting verbatim text” if not found).
+   - # does: a 1–2 sentence plain-English description of what the cell actually does.
+
+Label formats
+- Processing notebook:  bprint("Process Answer: Q<question>(<part>)<N>")
+- Diagnostics in Processing: same prefix; add an inline “- DIAGNOSTIC” note in a comment if helpful.
+- Analysis notebook:    bprint("Analysis Answer: Q<question>(<part>)<N>")
+
+Global serial
+- N increases by 1 every time we tag a new cell, regardless of question.
+- We may work bottom→top; numbers can look out of order in the notebook—this is fine. Uniqueness is what matters.
+PAT Tag structure:
+line 1 is the Tag line and is a python fuction -> bprint('"'Process Answer: <question number as per assignment document but no leading><Global Series N> (optional Tag line python comment follows  bprint() # command as a python comment. 
+line 2 is the supports line python comment     ->   # supports: Qx(y) — "<verbatim text from the assignment>"
+line 3 is the does line python comment         ->   # does: <what the cell actually does, in 1–2 sentences>
+
+“Indirectly” or “Diagnostic”
+- If a cell supports a question but does not produce the answer itself (prep/validation), I may append “indirectly” to the label text.
+- If a cell is a diagnostic only, it still gets the normal label format; the supports line says diagnostic only (context: Qx(y)).
+
+Content-based mapping cheat sheet
+---------------------------------
+Use these to decide which question a cell supports:
+
+A recent copy of the .ipynb file is normally in the project files. I will ask if I believe a newer version is needed. 
+- Q1(a) – Structure: listings/paths, container layout, hdfs dfs -ls just to show what exists.
+- Q1(b) – Years present & size change: build/inspect daily observations; parse per-year files; (year, size) rows; year_sizes_df; year-vs-size plots; related validations.
+- Q1(c) – Totals & share: total size of all data vs daily (e.g., du -s {data_root} and du -s {daily_root}), plus the total vs daily pie.
+- Q3(a–c) – Country/state enrichment prep: parse COUNTRIES/STATES; derive COUNTRY_CODE; join into stations.
+- Q3(d) – Inventory aggregation: per-station FIRSTYEAR/LASTYEAR, element counts, “only PRCP”, “all five core elements”.
+- Q3(e) – Enriched stations: join the inventory aggregates into stations; save the enriched table.
+- Q4(a/b) – Missing stations vs daily: efficiently find stations in catalogue but not in daily (anti-joins); counts and samples.
+  *Note:* Inventory is not required for Q1; any inventory checks there are diagnostics only.
+  *The Assignment document is in the project files 
+
+Index/table generation (when you ask)
+-------------------------------------
+I will review the python code that is provided and coorelate the code's purpose with the question in the assignment.
+I can generate a cell table with: 
+1) first non-empty line, as the Tag line which includes the bprint()
+2) “used to answer” (question),
+4) brief description of the code in the PAT Tag.
+Formats: inline, CSV, or LaTeX. (I won’t create files unless you ask.)
+
+Your commands at a glance
+-------------------------
+- “restart PAT” — I resume tagging with the next global serial.
+- “PAT:” + cell content — I reply with the label + supports/does lines (or the full cell if you explicitly ask).
+- Renumbering — We don’t backfill; the global serial just keeps increasing.
+
+Minimal examples (for reference only)
+-------------------------------------
+Processing example:
+  bprint("Process Answer: Q1(b)42")
+  # supports: Q1(b) — "How many years are contained in daily, and how does the size of the data change?"
+  # does: builds a (year, size_bytes) DataFrame from hdfs ls for the year-vs-size trend.
+
+Analysis example:
+  bprint("Analysis Answer: Q4(b)63")
+  # supports: Q4(b) — "How many station IDs are in stations but not in daily?"
+  # does: computes stations \ daily via left_anti and prints counts/samples.
+
+(Examples are illustrative; I won’t emit code unless you request it.)
