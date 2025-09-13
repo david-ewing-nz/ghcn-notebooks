@@ -24,5 +24,4 @@ data/
 *.csv
 *.csv.gz
 *.json
-*.html
 figures/
