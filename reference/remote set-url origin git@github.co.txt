@@ -1,0 +1,5 @@
+remote set-url origin git@github.com:david-ewing-nz/ghcn-notebooks.git
+
+ wasbs://campus-user@madsstorage002.blob.core.windows.net/dew59/
+
+git config --global --add safe.directory '%(prefix)///madsstorage002.file.core.windows.net/madshome/dew59/m-ghcn
