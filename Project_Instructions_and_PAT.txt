@@ -46,13 +46,7 @@ Content-based mapping cheat sheet
 Use these to decide which question a cell supports:
 
 A recent copy of the .ipynb file is normally in the project files. I will ask if I believe a newer version is needed. 
-- Q1(a) – Structure: listings/paths, container layout, hdfs dfs -ls just to show what exists.
-- Q1(b) – Years present & size change: build/inspect daily observations; parse per-year files; (year, size) rows; year_sizes_df; year-vs-size plots; related validations.
-- Q1(c) – Totals & share: total size of all data vs daily (e.g., du -s {data_root} and du -s {daily_root}), plus the total vs daily pie.
-- Q3(a–c) – Country/state enrichment prep: parse COUNTRIES/STATES; derive COUNTRY_CODE; join into stations.
-- Q3(d) – Inventory aggregation: per-station FIRSTYEAR/LASTYEAR, element counts, “only PRCP”, “all five core elements”.
-- Q3(e) – Enriched stations: join the inventory aggregates into stations; save the enriched table.
-- Q4(a/b) – Missing stations vs daily: efficiently find stations in catalogue but not in daily (anti-joins); counts and samples.
+ 
   *Note:* Inventory is not required for Q1; any inventory checks there are diagnostics only.
   *The Assignment document is in the project files 
 
