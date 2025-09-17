@@ -1,16 +1,24 @@
 === E VERSION DIAGNOSTIC RESULTS ===
-Analysis Timestamp: 2025-09-18T09:04:04.702826
+Analysis Timestamp: 2025-09-18T09:05:26.583934
 
 KEY DIAGNOSTICS:
 - cell_time_sec: 0.00
 - cell_time_min: 0.00
+- daily_ids: 129619
+- station_ids_cat: 129657
+- inventory_ids: 129618
+- diff_daily_station: 1603
 
 === RAW JSON RESULTS ===
 {
   "version": "E",
-  "timestamp": "2025-09-18T09:04:04.702826",
+  "timestamp": "2025-09-18T09:05:26.583934",
   "diagnostics": {
     "cell_time_sec": "0.00",
-    "cell_time_min": "0.00"
+    "cell_time_min": "0.00",
+    "daily_ids": "129619",
+    "station_ids_cat": "129657",
+    "inventory_ids": "129618",
+    "diff_daily_station": "1603"
   }
 }
