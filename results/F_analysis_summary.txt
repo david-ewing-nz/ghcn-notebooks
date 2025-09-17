@@ -1,11 +1,16 @@
 === F VERSION DIAGNOSTIC RESULTS ===
-Analysis Timestamp: 2025-09-17T10:18:32.023208
+Analysis Timestamp: 2025-09-17T20:54:18.208875
 
 KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
 
 === RAW JSON RESULTS ===
 {
   "version": "F",
-  "timestamp": "2025-09-17T10:18:32.023208",
-  "diagnostics": {}
+  "timestamp": "2025-09-17T20:54:18.208875",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
 }
