@@ -121,19 +121,19 @@ def extract_diagnostic_output(notebook_path, version):
         print(f"\n=== {version.upper()} ANALYSIS SUMMARY ===")
         for key, value in results["diagnostics"].items():
             print(f"{key}: {value}")
-        print(f"[{datetime.now()}] SUCCESS: Found "
-              f"{len(results['diagnostics'])} diagnostic results!")
+        print(
+            f"[{datetime.now()}] SUCCESS: Found "
+            f"{len(results['diagnostics'])} diagnostic results!"
+        )
         return True
     else:
-        print(f"[{datetime.now()}] No diagnostic results found in "
-              f"{notebook_path}")
+        print(f"[{datetime.now()}] No diagnostic results found in " f"{notebook_path}")
         return False
 
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python auto_extract_diagnostics.py "
-              "<notebook_path> <version>")
+        print("Usage: python auto_extract_diagnostics.py " "<notebook_path> <version>")
         sys.exit(1)
 
     notebook_path = sys.argv[1]

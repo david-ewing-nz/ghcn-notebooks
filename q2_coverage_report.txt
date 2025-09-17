@@ -1,0 +1,48 @@
+============================================================
+AUTOMATED Q2 COVERAGE ANALYSIS REPORT
+============================================================
+
+Q2 REQUIREMENTS FROM ASSIGNMENT:
+----------------------------------------
+Q2 Section 1:
+Q2(a): Define a schema for daily based on the description, using pyspark.sql types. Best way to load DATE and OBSERVATION TIME columns.
+
+Q2 Section 2:
+Q2(b): Modify spark.read.csv to load subset of most recent year using schema. Report any issues and data types used.
+
+Q2 Section 3:
+Q2(a): Write Spark function for geographical distance between stations using lat/long.
+
+Q2 Section 4:
+Q2(b): Apply function to compute pairwise distances for all NZ stations.
+
+Q2 Section 5:
+Q2(a): Group precipitation observations by year and country, compute average daily rainfall.
+
+Q2 Section 6:
+Q2(b): Plot average rainfall in 2024 for each country using choropleth map.
+
+NOTEBOOK ANALYSIS:
+--------------------
+Explicit Q2 labeled cells: 1
+  Cell 21: bprint("Process Answer: Q2(c)71")
+    # supports: Q2(c) — [awaiting verbatim text] load fixed-width metadata into Spark and extract columns using substring by character ranges.
+
+Schema definition cells: 1
+  Cell 10: Contains daily_schema definition
+
+Distance function cells: 1
+  Cell 6: Contains distance calculation
+
+Precipitation processing cells: 1
+  Cell 8: Contains precipitation aggregation
+
+COVERAGE ASSESSMENT:
+--------------------
+✓ Schema definition (Q2(a)) - PRESENT
+✓ Distance calculation function (Q2(a)) - PRESENT
+✓ Precipitation aggregation (Q2(a)) - PRESENT
+✗ Multiple explicit Q2 answers - INSUFFICIENT
+
+Overall Coverage: 3/6 requirements addressed
+.1f

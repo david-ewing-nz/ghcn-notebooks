@@ -4,8 +4,8 @@ Automated Notification System for Diagnostic Results
 Sends notifications when diagnostic results are detected
 """
 
-import sys
 import subprocess
+import sys
 from datetime import datetime
 
 
@@ -14,7 +14,7 @@ def send_notification(version, results_file):
 
     # Load the results
     try:
-        with open(results_file, 'r') as f:
+        with open(results_file, "r") as f:
             content = f.read()
     except Exception as e:
         print(f"Error reading results file: {e}")
@@ -46,13 +46,10 @@ Next Steps:
 
     # Option 1: Windows Toast Notification (built-in)
     try:
-        toast_cmd = (f'New-BurntToastNotification -Text "{subject}", '
-                     f'"{message[:200]}..."')
-        subprocess.run([
-            'powershell',
-            '-command',
-            toast_cmd
-        ], capture_output=True)
+        toast_cmd = (
+            f'New-BurntToastNotification -Text "{subject}", ' f'"{message[:200]}..."'
+        )
+        subprocess.run(["powershell", "-command", toast_cmd], capture_output=True)
         print(f"[{datetime.now()}] Windows toast notification sent!")
     except Exception as e:
         print(f"Toast notification failed: {e}")
@@ -61,7 +58,7 @@ Next Steps:
     with open("notification_log.txt", "a") as f:
         f.write(f"\n[{datetime.now()}] NOTIFICATION: {subject}\n")
         f.write(f"Message: {message}\n")
-        f.write("="*50 + "\n")
+        f.write("=" * 50 + "\n")
 
     print(f"[{datetime.now()}] Notification logged to notification_log.txt")
 

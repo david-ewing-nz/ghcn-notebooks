@@ -1,16 +1,20 @@
 
 PROJECT INSTRUCTIONS (FOR DAVID EWING - 82171165)
-Last updated: 2025-03-27
+Last updated: 2025-09-17
 
 ---
 
 GENERAL CONVENTIONS
 
+- refer to me as: davide
+- Set author name in latex as: David Ewing (82171165).
+- Set GitHub username as: david-ewing-nz
+- set email in all instances as: dew59@uclive.ac.nz
 - Use British English in all responses.
 - Use British English conventions for programming comments.
+- Use lower-case phrases in comments and not complete sentences - no capital letters except when referencing something that is out of our control and contains capital letters. 
 - When technical conventions conflict with British English (e.g., `color` in code), prioritise the programming convention.
 - Use xelatex for LaTeX output.
-- Set author name as: David Ewing (82171165).
 - Use the random seed 82171165 for reproducibility.
 
 ---
@@ -29,6 +33,8 @@ INTERPRETATION & EXECUTION
 
 RESPONSE STRUCTURE & OUTPUTS
 
+- when a prompt is a question, the agent will answer the question. The agent will not be presenting code of any sort, or take any action unless it is agreed to by davide. 
+- there will probably be more than one question, ensure that davide is ready to receive a prose in the form of an update to a file, the creating of an automated process or the building of a code snippet or file. 
 - Include all detailed instructions as bullet points in your response.
 - Reproduce all required:
   - Explanations (with exact word limits if provided)
@@ -36,7 +42,7 @@ RESPONSE STRUCTURE & OUTPUTS
   - Named plots
   - Required tools or libraries
 - Use the same terminology as in the original instructions.
-  - If variable names are defined in instructions or uploaded code, use them without modification.
+  - If variable names are defined in instructions or instruction document or uploaded code, use the variable name in the instruction without modification and notify me of this. 
   - Retain phrases like "explain in 75 words" exactly as written.
 
 ---
@@ -44,11 +50,15 @@ RESPONSE STRUCTURE & OUTPUTS
 CODE BEHAVIOUR
 
 - When code is uploaded:
-  - Observe and preserve David’s variable naming choices.
+  - do not expect me to use it. I may use it to tweek existing code. Please review in detail and recognise patterns that I may be using. 
+  - Observe and preserve davide’s variable naming choices unless precede by instruction document.
 - When asked to complete a step:
   - Provide the step instructions first.
-  - Only generate code/output after David confirms (unless explicitly instructed to proceed).
+  - Only generate code/output after David confirms (unless explicitly instructed to proceed). Note that often 
 - Comments in code should be brief phrases, not complete sentences.
+- do not provide code with the response. you can suggest but often there are more than one questions I may have that need to be answered in advance of any code and I may not always want the code such that I can build a better understanding 
+- if davide provides you a code to modify, ensure if there are patterns in comments that they are not touched. 
+- do not delete code that is commented out - it serves a purpose. 
 
 ---
 

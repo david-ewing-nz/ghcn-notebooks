@@ -199,3 +199,124 @@ To stop the automation:
 ---
 
 **Note**: This system is designed for the specific GHCN data processing workflow and may require adaptation for other use cases.
+
+## 🧹 Automated Notebook Cleanup
+
+In addition to the diagnostic monitoring system, this repository includes automated tools to clean up Jupyter notebooks by removing duplicate cells and test/debugging content.
+
+### Files
+
+- `automate_notebook_cleanup.py` - Python script that automatically cleans notebooks
+- `automate_cleanup.bat` - Windows batch file for easy execution
+
+### Usage
+
+#### Option 1: Run the Python script directly
+```bash
+python automate_notebook_cleanup.py
+```
+
+#### Option 2: Use the batch file (Windows)
+Double-click `automate_cleanup.bat` or run it from command prompt:
+```cmd
+automate_cleanup.bat
+```
+
+### What the cleanup script does
+
+The automated cleanup script:
+
+1. **Removes duplicate Q4(b)58 cells** - Keeps only the first instance of the probe_universe diagnostic cell
+2. **Removes test/debugging cells** - Identifies and removes cells containing:
+   - Tier 1/2/3 sample data tests
+   - Diagnostic testing strategy content
+   - Wildcard daily data loading sections
+   - Other test/debugging code
+
+3. **Preserves essential analysis cells** - Keeps all legitimate analysis and processing cells
+
+### Cleanup Results
+
+After running the cleanup on `20250916D_Build.ipynb`:
+- **Original cells**: 120
+- **Cells kept**: 35
+- **Cells removed**: 85
+- **Q4(b)58 cells remaining**: 1
+
+### Safety
+
+The script works directly on the notebook file. Make sure to commit your changes before running the cleanup, or create a manual backup if needed.
+
+---
+
+## 🔧 Automated Cell Addition System
+
+This system automatically adds the three core cells (imports, helper functions, variables) to Jupyter notebooks, ensuring consistency across all versions.
+
+### Quick Start
+
+**For current notebook (18A):** ✅ Already has all cells - no action needed
+
+**For new notebooks:**
+```bash
+# Single notebook
+python automate_cell_addition.py code\20250916D_Build.ipynb code\20250918A_Build.ipynb
+
+# Or use batch file
+auto_add_cells.bat code\20250916D_Build.ipynb code\20250918A_Build.ipynb
+```
+
+### Zero-Intervention Automation
+
+Set up once to run automatically:
+
+```bash
+# Setup scheduled task (requires admin)
+setup_auto_cell_addition.bat
+
+# Or run full automation manually
+full_auto_cell_addition.bat
+```
+
+### Advanced Management
+
+```bash
+# Validate notebook structure
+python notebook_cell_manager.py validate code\20250918A_Build.ipynb
+
+# Batch process multiple notebooks
+python notebook_cell_manager.py batch-add --reference code\20250916D_Build.ipynb --pattern "code\202509*Build.ipynb"
+```
+
+### What Gets Automated
+
+- ✅ Detects missing core cells (imports, helper functions, variables)
+- ✅ Extracts cells from reference notebook (D version)
+- ✅ Adds cells in correct order and position
+- ✅ Creates automatic backups before changes
+- ✅ Validates notebook structure after changes
+- ✅ Logs all operations with timestamps
+
+### Your Involvement Options
+
+1. **Zero involvement:** Set up scheduled task - runs daily automatically
+2. **Minimal involvement:** Run batch script when creating new notebooks
+3. **Full control:** Use individual commands for specific operations
+
+### Files Created
+
+- `automate_cell_addition.py` - Core automation engine
+- `auto_add_cells.bat` - Simple Windows interface
+- `notebook_cell_manager.py` - Advanced management with validation
+- `full_auto_cell_addition.bat` - Zero-intervention batch processing
+- `setup_auto_cell_addition.bat` - Scheduled task setup (admin required)
+
+### Integration
+
+This system integrates seamlessly with your existing:
+- Git automation (`auto_git_monitor_enhanced.bat`)
+- Versioning system (`notebook_versioner.bat`)
+- Cleanup system (`automate_notebook_cleanup.py`)
+- Archiving system (`archive_versions.bat`)
+
+**Result:** Complete automation chain from notebook creation to maintenance, requiring zero ongoing user intervention.
