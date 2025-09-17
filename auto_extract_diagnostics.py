@@ -57,6 +57,50 @@ def extract_diagnostic_output(notebook_path, version):
                             results["diagnostics"]["set_difference"] = line
                         elif "38/39" in line:
                             results["diagnostics"]["validation_38_39"] = line
+                        # New patterns from GOOD notebook output
+                        elif "[COUNT] daily IDs" in line:
+                            results["diagnostics"]["daily_ids"] = line.split(":")[
+                                -1
+                            ].strip()
+                        elif "[COUNT] station IDs (cat)" in line:
+                            results["diagnostics"]["station_ids_cat"] = line.split(":")[
+                                -1
+                            ].strip()
+                        elif "[COUNT] inventory IDs" in line:
+                            results["diagnostics"]["inventory_ids"] = line.split(":")[
+                                -1
+                            ].strip()
+                        elif "[DIFF ] daily  – station" in line:
+                            results["diagnostics"]["diff_daily_station"] = line.split(
+                                ":"
+                            )[-1].strip()
+                        elif "[DIFF ] station – daily" in line:
+                            results["diagnostics"]["diff_station_daily"] = line.split(
+                                ":"
+                            )[-1].strip()
+                        elif "[DIFF ] station – inv" in line:
+                            results["diagnostics"]["diff_station_inv"] = line.split(
+                                ":"
+                            )[-1].strip()
+                        elif "[DIFF ] inv     – daily" in line:
+                            results["diagnostics"]["diff_inv_daily"] = line.split(":")[
+                                -1
+                            ].strip()
+                        elif "[DIFF ] inv     – station" in line:
+                            results["diagnostics"]["diff_inv_station"] = line.split(
+                                ":"
+                            )[-1].strip()
+                        elif "[time] cell_time (sec)" in line:
+                            results["diagnostics"]["cell_time_sec"] = line.split(":")[
+                                -1
+                            ].strip()
+                        elif "[time] cell_time (min)" in line:
+                            results["diagnostics"]["cell_time_min"] = line.split(":")[
+                                -1
+                            ].strip()
+
+    # Check if we found any diagnostic results
+    found_results = len(results["diagnostics"]) > 0
 
     # Save results to file
     output_file = f"results/{version}_analysis_summary.txt"
@@ -73,17 +117,27 @@ def extract_diagnostic_output(notebook_path, version):
 
     print(f"[{datetime.now()}] Results saved to {output_file}")
 
-    print(f"\n=== {version.upper()} ANALYSIS SUMMARY ===")
-    for key, value in results["diagnostics"].items():
-        print(f"{key}: {value}")
+    if found_results:
+        print(f"\n=== {version.upper()} ANALYSIS SUMMARY ===")
+        for key, value in results["diagnostics"].items():
+            print(f"{key}: {value}")
+        print(f"[{datetime.now()}] SUCCESS: Found "
+              f"{len(results['diagnostics'])} diagnostic results!")
+        return True
+    else:
+        print(f"[{datetime.now()}] No diagnostic results found in "
+              f"{notebook_path}")
+        return False
 
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python auto_extract_diagnostics.py", "<notebook_path> <version>")
+        print("Usage: python auto_extract_diagnostics.py "
+              "<notebook_path> <version>")
         sys.exit(1)
 
     notebook_path = sys.argv[1]
     version = sys.argv[2]
 
-    extract_diagnostic_output(notebook_path, version)
+    success = extract_diagnostic_output(notebook_path, version)
+    sys.exit(0 if success else 1)

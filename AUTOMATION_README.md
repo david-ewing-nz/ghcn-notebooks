@@ -1,53 +1,81 @@
-# Automated Cross-Environment Diagnostics System
+# Fully Automated Cross-Environment Diagnostics System
 
-This system provides fully automated cross-environment diagnostics for the GHCN data processing workflow, eliminating the need for manual intervention.
+This system provides **completely automated** detection and notification of diagnostic results in Build files, running continuously without any user intervention.
 
-## Overview
+## 🚀 Quick Start - Full Automation
 
-The automation system coordinates between:
-- **PySpark Environment**: Runs full diagnostics and pushes results (E/F/G versions)
-- **VS Code/pandas Environment**: Automatically detects, pulls, and analyzes results
-- **Automated Workflow**: Handles the entire process without user intervention
-
-## Quick Start
-
-1. **Initialize the System**:
+1. **Start the complete automated system:**
    ```batch
-   start_automation.bat
+   start_full_automation.bat
    ```
 
-2. **PySpark Environment**: Run your diagnostics and push results as usual
+2. **The system runs indefinitely and automatically:**
+   - Monitors Git for new commits with test results
+   - Checks Build files for specific diagnostic patterns
+   - Extracts and analyzes results when found
+   - Sends notifications via Windows toast and logs
+   - Continues monitoring 24/7
 
-3. **Monitor Progress**: Check the `results/` directory for analysis outputs
+## 🎯 What Gets Automatically Detected
 
-## System Components
+The system monitors for these exact diagnostic patterns from your GOOD notebook:
 
-### Core Scripts
-- `start_automation.bat` - Main startup script
-- `auto_orchestrator.bat` - Master workflow coordinator
-- `auto_git_monitor_enhanced.bat` - Git change detector
-- `auto_analyze_[e|f|g].bat` - Version-specific analyzers
-- `auto_extract_diagnostics.py` - Diagnostic output extractor
-- `auto_push_results.bat` - Automated results push back to repository
-- `generate_final_report.bat` - Final report compiler
+- `[COUNT] daily IDs : 129619`
+- `[COUNT] station IDs (cat) : 129657`
+- `[COUNT] inventory IDs : 129618`
+- `[DIFF ] daily – station : 0`
+- `[DIFF ] station – daily : 38`
+- `[DIFF ] station – inv : 39`
+- `[DIFF ] inv – daily : 0`
+- `[DIFF ] inv – station : 0`
+- `[time] cell_time (sec): 1757389100.25`
+- `[time] cell_time (min): 29289818.34`
 
-### Configuration
-- `.vscode/settings.json` - VS Code automation settings
-- `requirements.txt` - Python dependencies
+## 📁 Files Created Automatically
 
-## Workflow
+When results are detected:
 
+- `results/{VERSION}_analysis_summary.txt` - Complete diagnostic extraction
+- `diagnostic_alert.log` - Timestamped detection alerts
+- `notification_log.txt` - Detailed notification history
+- Windows toast notifications - Immediate alerts
+
+## 🔔 Notification System
+
+**Zero manual intervention required:**
+
+1. **Windows Toast Notifications** - Instant popup when results found
+2. **Persistent Logs** - All detections recorded automatically
+3. **Real-time Console** - Live status in monitoring windows
+
+## 🛑 Stopping the Automation
+
+To stop the fully automated system:
+
+1. Find console windows: "Git Monitor" and "Diagnostic Monitor"
+2. Press `Ctrl+C` in each window
+3. System stops completely
+
+## 🧪 Manual Testing
+
+Test the diagnostic extraction manually:
+
+```batch
+python auto_extract_diagnostics.py "code\20250916E_Build.ipynb" "E"
 ```
-PySpark Environment    VS Code Environment
-     |                        |
-     |  Push E/F/G versions   |
-     |----------------------->|
-     |                        |  Auto-detect changes
-     |                        |  Auto-pull updates
-     |                        |  Auto-execute notebooks
-     |                        |  Auto-extract diagnostics
-     |                        |  Auto-push results back
-     |                        |  Auto-generate reports
+
+## ⚙️ Customization Options
+
+- **Email alerts:** Configure in `send_notification.py`
+- **Monitor frequency:** Edit `timeout` values in batch files
+- **New patterns:** Add to `auto_extract_diagnostics.py`
+
+## 📊 System Status
+
+The master script shows:
+- Status updates every 5 minutes
+- Recent alerts from log files
+- Active monitoring confirmation
 ```
 
 ## Output Files

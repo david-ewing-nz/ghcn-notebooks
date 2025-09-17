@@ -1,33 +1,74 @@
 @echo off
-REM Startup Script for Automated Cross-Environment Diagnostics
-REM Initializes the complete automation workflow
+REM Enhanced Startup Script for Fully Automated Cross-Environment Diagnostics
+REM Initializes the complete hands-off automation workflow
 
 echo ========================================
-echo AUTOMATED CROSS-ENVIRONMENT DIAGNOSTICS
+echo    FULLY AUTOMATED CROSS-ENVIRONMENT DIAGNOSTICS
 echo ========================================
-echo [%date% %time%] Initializing automation system...
+echo [%date% %time%] Initializing enhanced automation system...
 
 REM Check if virtual environment exists
 if not exist ".venv" (
-    echo [%date% %time%] Creating virtual environment...
-    python -m venv .venv
+    echo [%date% %time%] ERROR: Virtual environment not found!
+    echo Please run environment setup first.
+    echo.
+    pause
+    exit /b 1
+)
+
+REM Check for configuration file
+if not exist "automation_config.ini" (
+    echo [%date% %time%] Creating default configuration file...
+    echo # Configuration file for automated result extraction > automation_config.ini
+    echo # Update these values with your actual E run results >> automation_config.ini
+    echo [RESULTS] >> automation_config.ini
+    echo daily_count = 120000 >> automation_config.ini
+    echo station_count = 25000 >> automation_config.ini
+    echo inv_count = 25000 >> automation_config.ini
+    echo diffs = [0, 0, 0, 0] >> automation_config.ini
+    echo values_updated = false >> automation_config.ini
+    echo. >> automation_config.ini
+    echo # Automation settings >> automation_config.ini
+    echo auto_commit = true >> automation_config.ini
+    echo auto_push = true >> automation_config.ini
+    echo monitoring_interval_seconds = 60 >> automation_config.ini
 )
 
 REM Activate virtual environment
 echo [%date% %time%] Activating virtual environment...
 call .venv\Scripts\activate.bat
 
-REM Install/update required packages
-echo [%date% %time%] Installing required packages...
-pip install --upgrade pip
-pip install jupyter nbconvert pandas numpy matplotlib
+REM Test the automation components
+echo [%date% %time%] Testing automation components...
+python code/auto_extract_and_update.py
 
 REM Create results directory
 if not exist "results" mkdir results
 
-REM Start the master orchestrator
-echo [%date% %time%] Starting master orchestrator...
-start /B auto_orchestrator.bat
+REM Start the enhanced monitor
+echo [%date% %time%] Starting enhanced automated monitor...
+start "GHCN Full Automation" /B auto_git_monitor_final.bat
+
+echo.
+echo ========================================
+echo        AUTOMATION IS NOW ACTIVE!
+echo ========================================
+echo.
+echo System Status: FULLY AUTOMATED
+echo Monitoring: Every 60 seconds for Git changes
+echo Processing: Automatic extraction, update, commit, push
+echo.
+echo To customize:
+echo 1. Edit automation_config.ini with your actual values
+echo 2. Set values_updated = true for real results
+echo 3. The system runs completely hands-off
+echo.
+echo To stop: Close the "GHCN Full Automation" window
+echo.
+echo You are now OUTSIDE THE LOOP - full automation achieved!
+echo.
+
+pause
 
 echo.
 echo ========================================

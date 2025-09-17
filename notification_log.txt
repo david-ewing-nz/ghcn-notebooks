@@ -1,0 +1,6771 @@
+
+[2025-09-17 20:54:59.780091] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T20:54:58.842908
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:54:57.931175
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T20:54:57.931175",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:00.386060] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T20:54:59.995837
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:54:59.882085
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T20:54:59.882085",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:01.107003] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T20:55:00.619757
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:00.501768
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T20:55:00.501768",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:02.277626] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:55:01.516085
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:01.364235
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:55:01.364235",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:14.839806] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:55:14.436101
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:14.335649
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:55:14.335649",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:15.472388] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:55:15.037457
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:14.934464
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:55:14.934464",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:16.051159] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:55:15.657840
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:15.558257
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:55:15.558257",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:46.847189] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T20:55:46.358277
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:46.229020
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T20:55:46.229020",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:47.571133] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T20:55:47.027654
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:46.936546
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T20:55:46.936546",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:48.313255] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T20:55:47.826535
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:47.709513
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T20:55:47.709513",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:49.173528] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:55:48.715217
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:48.571617
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:55:48.571617",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:49.836588] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:55:49.389078
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:49.288723
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:55:49.288723",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:50.502201] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:55:50.031532
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:49.931801
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:55:49.931801",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:51.176052] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:55:50.735720
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:50.625858
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:55:50.625858",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:55:51.826587] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:55:51.388917
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:55:51.283908
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:55:51.283908",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:21.671647] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T20:56:21.307853
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:21.213262
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T20:56:21.213262",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:22.235300] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T20:56:21.870424
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:21.764701
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T20:56:21.764701",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:22.810540] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T20:56:22.416140
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:22.322965
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T20:56:22.322965",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:23.580063] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:56:23.100439
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:23.004779
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:56:23.004779",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:24.341445] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:56:23.842464
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:23.712331
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:56:23.712331",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:25.109052] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:56:24.559577
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:24.426102
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:56:24.426102",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:26.028328] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:56:25.376889
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:25.246147
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:56:25.246147",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:26.769122] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:56:26.257673
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:26.137531
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:56:26.137531",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:56.741640] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T20:56:56.349231
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:56.249371
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T20:56:56.249371",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:57.309052] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T20:56:56.925790
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:56.827393
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T20:56:56.827393",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:57.872464] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T20:56:57.498938
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:57.399493
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T20:56:57.399493",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:58.537436] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:56:58.144525
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:58.051857
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:56:58.051857",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:56:59.163115] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:56:58.719145
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:58.623470
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:56:58.623470",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:00.003026] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:56:59.437333
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:56:59.268015
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:56:59.268015",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:00.773457] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:57:00.258373
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:00.141428
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:57:00.141428",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:01.962182] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:57:01.049022
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:00.893311
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:57:00.893311",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:31.780751] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T20:57:31.361209
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:31.249462
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T20:57:31.249462",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:32.394814] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T20:57:31.984420
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:31.881496
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T20:57:31.881496",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:33.046064] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T20:57:32.624825
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:32.524261
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T20:57:32.524261",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:33.803234] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:57:33.341804
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:33.235851
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:57:33.235851",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:34.406258] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:57:33.998950
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:33.886736
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:57:33.886736",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:35.028195] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:57:34.615962
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:34.500137
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:57:34.500137",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:35.724769] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:57:35.239241
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:35.122525
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:57:35.122525",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:57:36.332638] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:57:35.917109
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:57:35.814393
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:57:35.814393",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:06.794053] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T20:58:06.359818
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:06.256177
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T20:58:06.256177",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:07.376021] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T20:58:06.980950
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:06.885463
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T20:58:06.885463",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:07.983085] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T20:58:07.578043
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:07.465450
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T20:58:07.465450",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:09.003421] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:08.241148
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:08.143365
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:08.143365",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:09.900101] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:09.307912
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:09.173765
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:09.173765",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:10.558294] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:10.121389
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:10.012532
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:10.012532",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:11.209285] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:10.762767
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:10.656787
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:10.656787",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:11.877230] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:11.420791
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:11.307299
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:11.307299",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:41.725345] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T20:58:41.346323
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:41.254421
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T20:58:41.254421",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:42.281386] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T20:58:41.903857
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:41.811957
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T20:58:41.811957",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:42.856817] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T20:58:42.466132
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:42.372793
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T20:58:42.372793",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:43.477909] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:43.110552
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:43.021102
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:43.021102",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:44.137258] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:43.677343
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:43.567861
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:43.567861",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:44.912253] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:44.371717
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:44.246187
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:44.246187",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:45.850680] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:45.140908
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:45.027896
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:45.027896",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:58:46.473296] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:58:46.057726
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:58:45.950517
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:58:45.950517",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:16.792144] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T20:59:16.362700
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:16.262535
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T20:59:16.262535",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:17.456369] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T20:59:16.986073
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:16.885326
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T20:59:16.885326",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:18.076843] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T20:59:17.655470
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:17.546877
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T20:59:17.546877",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:18.806312] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:18.374422
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:18.277456
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:18.277456",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:19.480877] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:19.038776
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:18.913380
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:18.913380",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:20.117851] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:19.692089
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:19.584357
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:19.584357",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:20.843644] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:20.333469
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:20.221472
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:20.221472",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:21.479441] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:21.048796
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:20.940618
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:20.940618",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:51.704092] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T20:59:51.377368
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:51.288913
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T20:59:51.288913",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:52.171813] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T20:59:51.851643
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:51.775355
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T20:59:51.775355",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:52.659195] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T20:59:52.319645
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:52.240983
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T20:59:52.240983",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:53.194898] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:52.868099
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:52.793974
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:52.793974",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:53.740074] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:53.354694
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:53.266253
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:53.266253",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:54.326760] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:53.914775
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:53.820737
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:53.820737",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:54.877486] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:54.501388
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:54.406543
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:54.406543",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 20:59:55.420559] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T20:59:55.044971
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T20:59:54.954275
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T20:59:54.954275",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:00:25.600372] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:00:25.274859
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:25.189369
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:00:25.189369",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:00:26.087774] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:00:25.747383
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:25.670186
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:00:25.670186",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:00:26.565351] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:00:26.243348
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:26.163690
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:00:26.163690",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:00:27.123541] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:00:26.791172
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:26.711036
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:00:26.711036",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:00:27.619658] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:00:27.288425
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:27.201278
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:00:27.201278",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:00:28.113386] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:00:27.786170
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:27.696986
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:00:27.696986",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:00:29.202729] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:00:28.828631
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:28.739030
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:00:28.739030",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:00:29.695469] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:00:29.361920
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:29.268286
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:00:29.268286",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:00:59.661374] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:00:59.327722
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:59.245514
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:00:59.245514",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:00.157867] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:00:59.819139
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:00:59.739965
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:00:59.739965",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:00.621306] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:01:00.302429
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:00.227509
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:01:00.227509",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:01.164556] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:00.850572
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:00.769435
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:00.769435",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:01.628220] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:01.308027
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:01.230100
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:01.230100",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:02.121269] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:01.786303
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:01.698142
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:01.698142",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:03.094283] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:02.764643
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:02.189094
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:02.189094",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:03.566175] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:03.244104
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:03.164889
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:03.164889",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:33.659323] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:01:33.318754
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:33.239937
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:01:33.239937",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:34.128321] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:01:33.807882
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:33.730674
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:01:33.730674",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:34.598798] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:01:34.281664
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:34.202169
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:01:34.202169",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:35.141709] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:34.819334
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:34.737763
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:34.737763",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:35.619548] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:35.298129
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:35.221223
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:35.221223",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:36.096117] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:35.774826
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:35.688657
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:35.688657",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:36.650770] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:36.336943
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:36.164270
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:36.164270",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:01:37.124699] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:01:36.800076
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:01:36.721016
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:01:36.721016",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:07.669002] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:02:07.342187
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:07.259393
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:02:07.259393",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:08.138029] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:02:07.819514
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:07.739595
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:02:07.739595",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:08.661281] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:02:08.300420
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:08.208846
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:02:08.208846",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:09.316000] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:08.993240
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:08.912483
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:08.912483",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:09.788130] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:09.461331
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:09.383681
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:09.383681",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:10.307277] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:09.943453
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:09.864171
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:09.864171",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:10.798316] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:10.469460
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:10.387851
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:10.387851",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:11.284504] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:10.948963
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:10.868522
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:10.868522",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:41.663962] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:02:41.334661
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:41.247548
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:02:41.247548",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:42.147312] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:02:41.819941
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:41.736354
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:02:41.736354",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:42.625911] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:02:42.297683
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:42.222547
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:02:42.222547",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:43.168961] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:42.846691
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:42.768238
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:42.768238",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:43.659665] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:43.327634
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:43.248855
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:43.248855",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:44.266631] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:43.813534
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:43.732927
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:43.732927",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:44.744717] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:44.418639
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:44.336254
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:44.336254",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:02:45.226107] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:02:44.893470
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:02:44.815872
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:02:44.815872",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:15.731911] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:03:15.355293
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:15.272969
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:03:15.272969",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:16.245991] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:03:15.898608
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:15.824301
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:03:15.824301",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:16.783528] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:03:16.427328
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:16.321375
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:03:16.321375",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:17.407231] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:17.051441
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:16.968964
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:16.968964",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:17.951383] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:17.581691
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:17.501607
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:17.501607",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:18.474529] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:18.114527
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:18.036026
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:18.036026",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:19.004243] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:18.644245
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:18.567055
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:18.567055",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:19.558079] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:19.178688
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:19.083505
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:19.083505",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:49.664829] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:03:49.338867
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:49.248137
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:03:49.248137",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:50.167567] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:03:49.815048
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:49.736382
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:03:49.736382",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:50.667801] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:03:50.318758
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:50.241758
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:03:50.241758",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:51.218288] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:50.898504
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:50.816615
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:50.816615",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:51.877148] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:51.425772
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:51.316020
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:51.316020",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:52.432137] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:52.035385
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:51.958492
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:51.958492",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:52.938711] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:52.597485
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:52.516947
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:52.516947",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:03:53.437640] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:03:53.094068
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:03:53.008228
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:03:53.008228",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:23.747251] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:04:23.354400
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:23.275863
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:04:23.275863",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:24.283368] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:04:23.917166
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:23.821128
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:04:23.821128",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:24.865008] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:04:24.471454
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:24.375539
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:04:24.375539",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:25.495214] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:04:25.119086
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:25.004609
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:04:25.004609",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:26.059259] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:04:25.685487
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:25.584785
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:04:25.584785",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:26.684834] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:04:26.317586
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:26.132712
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:04:26.132712",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:27.243346] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:04:26.877966
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:26.783008
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:04:26.783008",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:27.796382] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:04:27.423885
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:27.317087
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:04:27.317087",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:57.695307] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:04:57.363453
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:57.276210
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:04:57.276210",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:58.169190] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:04:57.847445
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:57.767433
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:04:57.767433",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:58.702136] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:04:58.338475
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:58.243250
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:04:58.243250",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:59.256092] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:04:58.920237
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:58.841419
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:04:58.841419",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:04:59.774899] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:04:59.422865
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:59.327439
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:04:59.327439",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:00.314647] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:04:59.938053
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:04:59.847015
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:04:59.847015",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:00.816956] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:05:00.484127
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:00.399001
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:05:00.399001",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:01.302400] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:05:00.969611
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:00.885529
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:05:00.885529",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:31.678397] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:05:31.341965
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:31.258100
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:05:31.258100",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:32.142578] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:05:31.820946
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:31.744733
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:05:31.744733",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:32.631354] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:05:32.290491
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:32.209520
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:05:32.209520",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:33.180446] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:05:32.850170
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:32.775132
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:05:32.775132",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:33.662041] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:05:33.340375
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:33.258966
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:05:33.258966",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:34.278740] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:05:33.817297
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:33.736091
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:05:33.736091",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:34.771683] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:05:34.440803
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:34.357870
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:05:34.357870",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:05:35.238016] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:05:34.918531
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:05:34.838867
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:05:34.838867",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:05.669839] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:06:05.301706
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:05.208920
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:06:05.208920",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:06.210603] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:06:05.860081
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:05.763690
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:06:05.763690",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:06.740123] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:06:06.388384
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:06.295964
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:06:06.295964",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:08.267695] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:07.000079
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:06.900457
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:06.900457",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:08.928055] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:08.462480
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:08.360561
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:08.360561",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:09.500608] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:09.140402
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:09.048791
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:09.048791",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:10.026941] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:09.661131
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:09.574631
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:09.574631",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:10.541348] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:10.200705
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:10.095559
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:10.095559",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:40.671558] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:06:40.347456
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:40.260662
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:06:40.260662",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:41.165705] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:06:40.833844
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:40.743190
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:06:40.743190",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:41.736226] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:06:41.390485
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:41.312303
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:06:41.312303",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:42.302239] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:41.966403
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:41.877524
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:41.877524",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:42.764545] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:42.446760
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:42.367463
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:42.367463",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:43.230067] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:42.914885
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:42.831954
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:42.831954",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:43.693278] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:43.380012
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:43.301452
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:43.301452",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:06:44.182371] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:06:43.856854
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:06:43.768460
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:06:43.768460",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:14.716007] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:07:14.381953
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:14.298829
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:07:14.298829",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:15.203005] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:07:14.880704
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:14.796898
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:07:14.796898",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:15.693484] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:07:15.359609
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:15.277276
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:07:15.277276",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:16.283006] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:15.922527
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:15.829507
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:15.829507",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:16.766075] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:16.439725
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:16.360913
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:16.360913",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:17.242295] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:16.917339
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:16.837342
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:16.837342",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:17.727065] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:17.397410
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:17.309792
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:17.309792",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:18.198145] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:17.881709
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:17.799403
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:17.799403",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:48.903445] NOTIFICATION: GHCN Diagnostic Results Found - E Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: E
+Timestamp: 2025-09-17T21:07:48.362024
+Results File: results\E_analysis_summary.txt
+
+Summary of Results:
+=== E VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:48.230489
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "E",
+  "timestamp": "2025-09-17T21:07:48.230489",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the E Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/E_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:49.580375] NOTIFICATION: GHCN Diagnostic Results Found - F Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: F
+Timestamp: 2025-09-17T21:07:49.158283
+Results File: results\F_analysis_summary.txt
+
+Summary of Results:
+=== F VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:49.039654
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "F",
+  "timestamp": "2025-09-17T21:07:49.039654",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the F Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/F_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:50.173707] NOTIFICATION: GHCN Diagnostic Results Found - G Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: G
+Timestamp: 2025-09-17T21:07:49.783386
+Results File: results\G_analysis_summary.txt
+
+Summary of Results:
+=== G VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:49.669237
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "G",
+  "timestamp": "2025-09-17T21:07:49.669237",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the G Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/G_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:51.040855] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:50.476774
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:50.341232
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:50.341232",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:52.135418] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:51.325407
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:51.166771
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:51.166771",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:53.410150] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:52.479655
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:52.299708
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:52.299708",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:54.497000] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:53.753101
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:53.583580
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 2.18
+- cell_time_min: 0.04
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:53.583580",
+  "diagnostics": {
+    "cell_time_sec": "2.18",
+    "cell_time_min": "0.04"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================
+
+[2025-09-17 21:07:55.227222] NOTIFICATION: GHCN Diagnostic Results Found - d Version
+Message: 
+Automated Notification: Diagnostic Results Detected
+
+Version: d
+Timestamp: 2025-09-17T21:07:54.755264
+Results File: results\d_analysis_summary.txt
+
+Summary of Results:
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:54.608793
+
+KEY DIAGNOSTICS:
+- cell_time_sec: 0.00
+- cell_time_min: 0.00
+
+=== RAW JSON RESULTS ===
+{
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:54.608793",
+  "diagnostics": {
+    "cell_time_sec": "0.00",
+    "cell_time_min": "0.00"
+  }
+}... (see full file for details)
+
+The automated system has detected and extracted diagnostic
+results from the d Build notebook.
+Results have been saved and the analysis is complete.
+
+Next Steps:
+1. Review the results in: results/d_analysis_summary.txt
+2. Compare with GOOD notebook baseline if needed
+3. The system will continue monitoring for new results
+
+==================================================

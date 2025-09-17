@@ -1,5 +1,5 @@
-=== G VERSION DIAGNOSTIC RESULTS ===
-Analysis Timestamp: 2025-09-17T21:07:49.669237
+=== D VERSION DIAGNOSTIC RESULTS ===
+Analysis Timestamp: 2025-09-17T21:07:54.608793
 
 KEY DIAGNOSTICS:
 - cell_time_sec: 0.00
@@ -7,8 +7,8 @@ KEY DIAGNOSTICS:
 
 === RAW JSON RESULTS ===
 {
-  "version": "G",
-  "timestamp": "2025-09-17T21:07:49.669237",
+  "version": "d",
+  "timestamp": "2025-09-17T21:07:54.608793",
   "diagnostics": {
     "cell_time_sec": "0.00",
     "cell_time_min": "0.00"
