@@ -25,3 +25,6 @@ data/
 *.csv.gz
 *.json
 figures/
+
+# Exclude everything in reference folder
+reference/
