@@ -1,0 +1,94 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{DATA420-A2}
+\author{david.ewing.nz }
+\date{September 2025}
+
+\begin{document}
+
+\maketitle
+
+% Assignment Method Overview
+% For Overleaf/LaTeX
+
+\section*{Assignment Method Overview}
+
+\begin{enumerate}
+  \item \textbf{Data Exploration}
+    \begin{enumerate}
+      \item Overview of dataset structure, sizes, formats, data types, storage.\\
+      Use HDFS or Spark commands to list files, check file sizes, and inspect file headers. Summarise formats (CSV, TSV, ARFF), data types (numeric, string), and storage locations.
+      \item Loading different dataset types.\\
+      Use Spark's read methods to load small samples, infer schema, and validate by displaying the first few rows.
+      \item Counting rows and comparing to unique songs.\\
+      Use Spark's count() and distinct().count() to compare row counts and unique song counts.
+    \end{enumerate}
+  \item \textbf{Data Preprocessing}
+    \begin{enumerate}
+      \item Loading audio feature attribute names and types.\\
+      Read attribute files as text, parse to extract names/types, and use to define Spark schemas.
+      \item Mapping attribute types to Spark types.\\
+      Create a mapping (e.g., ``NUMERIC'' $\rightarrow$ FloatType), build StructType schema programmatically.
+      \item Evaluating attribute names as column names.\\
+      Review names for clarity, length, and uniqueness; discuss pros/cons for modelling and merging.
+      \item Systematic renaming for merging.\\
+      Propose a naming convention (e.g., prefix with dataset name), use Spark renaming functions.
+    \end{enumerate}
+  \item \textbf{Audio Similarity \\& Classification}
+    \begin{enumerate}
+      \item Merging audio feature datasets and generating statistics.\\
+      Load datasets, join on track/song ID, compute descriptive statistics and correlations.
+      \item Loading and analysing genre dataset.\\
+      Load genre data, count frequencies, visualise, and discuss class imbalance.
+      \item Merging genres and features.\\
+      Join on track/song ID to create a labelled dataset for classification.
+    \end{enumerate}
+  \item \textbf{Binary Classification}
+    \begin{enumerate}
+      \item Algorithm selection and justification.\\
+      Discuss why logistic regression, random forest, and GBT are suitable; propose preprocessing.
+      \item Creating a binary label for ``Electronic''.\\
+      Map genre column to binary, calculate and report class balance.
+      \item Splitting data and handling class balance.\\
+      Use stratified sampling for 80/20 split; justify resampling.
+      \item Training classifiers.\\
+      Fit each model using Spark ML, document training process.
+      \item Evaluating performance.\\
+      Use test set to compute accuracy, precision, recall; present results in a table.
+      \item Comparing algorithms and metrics.\\
+      Discuss which model performs best and why; explain metric choices.
+    \end{enumerate}
+  \item \textbf{Multiclass Classification}
+    \begin{enumerate}
+      \item Logistic regression for multiclass.\\
+      Explain one-vs-rest or multinomial logistic regression, note extra configuration if needed.
+      \item Encoding genres as integer labels.\\
+      Use StringIndexer or similar, recalculate class balance.
+      \item Training and evaluating multiclass model.\\
+      Train on multiclass labels, compute multiclass metrics, discuss impact of class imbalance.
+    \end{enumerate}
+  \item \textbf{Hyperparameter Tuning}
+    \begin{enumerate}
+      \item Hyperparameters for each algorithm.\\
+      List key hyperparameters, discuss expected effects and alternatives.
+      \item Cross-validation explanation.\\
+      Describe k-fold cross-validation and its role in tuning.
+      \item Tuning process and expected impact.\\
+      Outline grid/random search, estimate potential improvement in metrics.
+    \end{enumerate}
+  \item \textbf{Song Recommendation (Collaborative Filtering)}
+    \begin{enumerate}
+      \item Dataset partitioning and caching.\\
+      Assess dataset size, recommend repartitioning/caching for efficiency.
+      \item Loading and analysing user-song data.\\
+      Count unique users and songs, find most active user, calculate percentages.
+      \item Additional descriptive statistics.\\
+      Propose further stats (e.g., average plays per user/song).
+      \item Visualising distributions.\\
+      Plot song popularity and user activity distributions, describe observed patterns.
+    \end{enumerate}
+\end{enumerate}
+
+
+\end{document}
