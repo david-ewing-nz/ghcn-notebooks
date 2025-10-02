@@ -9,6 +9,9 @@ The project involves distributed data processing and analysis of the **Global Hi
 
 The full workflow is run in a distributed environment using a cloud-based Spark notebook environment provided by James William, with outputs exported for local analysis and visualisation.
 
+## 📋 Current Working Milestone
+**`20251003_AG_Processing.ipynb`** - Latest stable version based on working C2_GOOD notebook that correctly handles cell dependencies and `daily_for_overlap` variable assignment.
+
 ---
 
 ## 📁 Repository Structure (readme.md created with ChatGPT)
