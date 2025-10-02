@@ -9,8 +9,18 @@ The project involves distributed data processing and analysis of the **Global Hi
 
 The full workflow is run in a distributed environment using a cloud-based Spark notebook environment provided by James William, with outputs exported for local analysis and visualisation.
 
-## 📋 Current Working Milestone
-**`20251003_AG_Processing.ipynb`** - Latest stable version based on working C2_GOOD notebook that correctly handles cell dependencies and `daily_for_overlap` variable assignment.
+## 📋 Current Working Milestones
+
+### **🎯 Primary Recommended Notebook**
+**`20251003_AG_Enhanced.ipynb`** - Complete version combining:
+- ✅ **Full Q2(b), Q2(c), Q3, Q4 functionality** from 1001A
+- ✅ **Fixed cell dependencies** using C2_GOOD approach  
+- ✅ **Dependency fix cells** to prevent `daily_for_overlap` NameError
+- ✅ **Ready for Spark environment execution**
+
+### **🔧 Alternative Versions**
+- **`20251003_AG_Processing.ipynb`** - Basic stable version (C2_GOOD based)
+- **`20251001A_Processing.ipynb`** - Full functionality but requires manual cell order fix
 
 ---
 
